@@ -7,4 +7,4 @@ def concat(str1: str, str2: str) -> str:
     """
     Concatnates two strings
     """
-    return str1 + " " + str1
+    return str1 +  str1
