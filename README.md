@@ -1,2 +1,2 @@
 # alx-backend-python
-A repo for all python backend projects.
+- A repo for all python backend projects.
